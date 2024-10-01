@@ -1,0 +1,23 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Input Validation JC</string>
+
+    <!-- General Validation Messages -->
+    <string name="required">Required</string>
+
+    <!-- Email Validation -->
+    <string name="enter_the_email">Enter the Email</string>
+    <string name="valid_e_mail">Valid E-mail</string>
+
+    <!-- Password Validation -->
+    <string name="password_must_be_8_to_10_character">Password must be 8 to 10 Characters!</string>
+    <string name="password_don_t_match">Password Don\'t Match!</string>
+    <string name="enter_the_password">Enter the Password</string>
+    <string name="enter_the_confirm_password">Enter the Confirm Password</string>
+
+    <!-- Name Validation -->
+    <string name="enter_the_name">Enter the Name</string>
+
+    <!-- Submit Button -->
+    <string name="submit">Submit</string>
+</resources>
